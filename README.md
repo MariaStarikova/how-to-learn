@@ -7,4 +7,6 @@
 
 Доработать проект можно вставкой ссылок на конкретные источники, добавлением новых анимаций, улучшением качества кода.
 
+- [Ссылка на Github Pages](https://mariastarikova.github.io/how-to-learn/)
+
 ![screen](https://github.com/MariaStarikova/how-to-learn/assets/128027402/84ce7de4-bc47-4cc4-9548-33a633694e33)
